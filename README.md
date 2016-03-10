@@ -13,3 +13,6 @@ Tham khảo:
 + https://www.base64-image.de
 + Install the Postman application, a Web Service consumer tool: https://chrome.google.com/ webstore/detail/postman/ fhbjgbiflinjbdggehcddcbncdddomop
 + Api weather: http://openweathermap.org/api
++ rest api jax-rs: 
++ http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
++ https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn
