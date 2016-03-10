@@ -11,7 +11,7 @@ Tham khảo:
 + http://spf13.com/post/soap-vs-rest
 + http://blog.smartbear.com/apis/understanding-soap-and-rest-basics/
 + https://www.base64-image.de
-+ Install the Postman application, a Web Service consumer tool: https://chrome.google.com/ webstore/detail/postman/ fhbjgbiflinjbdggehcddcbncdddomop
++ Install the Postman application, a Web Service consumer tool: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 + Api weather: http://openweathermap.org/api
 + rest api jax-rs: 
 + http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
